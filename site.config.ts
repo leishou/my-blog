@@ -1,6 +1,6 @@
 export const siteConfig = {
-  author: 'Rock Chen',
-  title: 'Rock Chen - Blog',
+  author: 'Lei Show',
+  title: 'Lei Show - Blog',
   description: 'My blog site.',
   lang: 'zh-CN',
 }
@@ -17,6 +17,10 @@ export const subNavLinks = [
   {
     title: 'Record',
     path: '/record',
+  },
+  {
+    title: 'C408',
+    path: '/computer',
   },
 ]
 
