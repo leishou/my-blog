@@ -28,3 +28,6 @@ git checkout -b xxx
 git add .
 ```
 
+```
+git clone -b yy xx
+```
