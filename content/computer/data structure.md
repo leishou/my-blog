@@ -83,3 +83,8 @@ https://www.nowcoder.com/test/question/done?tid=71112560&qid=1085985#summary
 
 https://www.nowcoder.com/test/question/done?tid=71112560&qid=1085983#summary
 
+next数组求法 参考链接 
+求法1:核心三个点next[0]=0 next[i] 看 i前字符串前缀后缀匹配个数+1
+https://blog.csdn.net/weixin_44830331/article/details/107409263
+求法2:公式推导思路
+https://blog.csdn.net/shiwanghualuo/article/details/52432137
