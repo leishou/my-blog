@@ -87,6 +87,7 @@ x+y
 ##### dijkstra：
 
 https://zhuanlan.zhihu.com/p/454373256
+
 ##### 关键路径：
 
 ```
@@ -118,6 +119,16 @@ https://zhuanlan.zhihu.com/p/454373256
 虚段个数：
 
 https://www.nowcoder.com/test/question/done?tid=71112560&qid=1085985#summary
+
+```
+就是构造一个12路归并树，其中只有度为0的结点和度为12的结点。由点数=边数+1
+n0+n12=12n12+1 n0=120+u
+u= 12-1 -((120-1)mod(12-1))=2
+u= m-1((n-1)mod(m-1))
+n为初始归并段个数 m为归并路数
+```
+
+
 
 ##### 快排：
 
