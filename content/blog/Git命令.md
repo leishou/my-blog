@@ -31,3 +31,11 @@ git add .
 ```
 git clone -b yy xx
 ```
+
+```
+git remote add origin  【git中克隆的shh的链接】
+```
+
+```
+git remote rm origin
+```
