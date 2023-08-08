@@ -1,6 +1,6 @@
 export const siteConfig = {
-  author: 'Lei Show',
-  title: 'Lei Show - Blog',
+  author: 'lei shou',
+  title: 'lei show - Blog',
   description: 'My blog site.',
   lang: 'zh-CN',
 }
@@ -65,13 +65,8 @@ export const socialLinks = [
     icon: 'i-simple-icons-bilibili',
   },
   {
-    title: 'Twitter',
-    path: 'https://twitter.com/Rockchen97',
-    icon: 'i-simple-icons-twitter',
-  },
-  {
     title: 'Github',
-    path: 'https://github.com/chansee97',
+    path: 'https://github.com/leishou',
     icon: 'i-icon-park-outline-github',
   },
 ]
@@ -81,9 +76,9 @@ export const projectList = [
     name: 'Recent Projects',
     content: [
       {
-        name: 'Zeal UI',
-        desc: 'components store, base on Vue3 and Ts',
-        path: 'https://github.com/chansee97/zeal-ui',
+        name: 'video-bunch',
+        desc: 'video_server, base on Vue3 and Nuxt',
+        path: 'https://git.code.tencent.com/video-bunch/video_server',
       },
     ],
   },
@@ -93,12 +88,12 @@ export const projectList = [
       {
         name: 'Nuxt Blog',
         desc: 'My blog site, base on Nuxt',
-        path: 'https://github.com/chansee97/nuxt-blog',
+        path: 'https://github.com/leishou/my-blog',
       },
       {
-        name: 'Ench Admin',
-        desc: 'a complete admin template',
-        path: 'https://github.com/chansee97/Ench-admin',
+        name: 'Access Management System',
+        desc: 'Netty remote control',
+        path: 'https://gitee.com/Goowillgo/petrifaction-door',
       },
     ],
   },
