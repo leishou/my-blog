@@ -75,6 +75,8 @@ https://www.nowcoder.com/test/question/done?tid=71218939&qid=1085988#summary
 
 汇编可见：基址寄存器 标志状态寄存器
 
+取址IF  译码ID  执行EX 访存MEM 回写 WB
+
 #### 磁盘
 
 最小读写单位为扇区
