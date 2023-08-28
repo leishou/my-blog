@@ -49,3 +49,15 @@ go run a.go b.go c.go
 可参考学习 字节青训营 go
 
 http://www.rply.cn/news/173011.html
+
+
+参照学习 go聊天室
+
+https://www.cnblogs.com/liwill/p/16086310.html 简单
+
+https://github.com/liwilljinx/chatroom
+
+
+
+https://juejin.cn/post/6870388583019872270?searchId=20230817174540A4E3A4B6FF9C13086987   较为复杂
+
