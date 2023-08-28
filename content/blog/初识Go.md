@@ -34,3 +34,18 @@ Kratos微服务 API 工程化指南
 
 https://juejin.cn/post/7191095845096259641
 
+
+
+在同一目录下运行多个.go文件
+
+```
+windows的cmd不支持*.go的表达方式，在ming64中可以支持，那么我如果想要windows脱离ming64支持，应该怎么实现
+```
+
+```
+go run a.go b.go c.go
+```
+
+可参考学习 字节青训营 go
+
+http://www.rply.cn/news/173011.html
