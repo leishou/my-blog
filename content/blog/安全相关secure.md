@@ -18,3 +18,19 @@ https://blog.csdn.net/feiying0canglang/article/details/127698008
 
 https://zhuanlan.zhihu.com/p/636629112
 nginx配置SSL/TLS证书，并强制https方式访问
+
+### 加密解密
+
+客户端前端 服务端
+
+请求响应体 校验文段 和校验结果
+
+AES256+CBC(指定长度16的IV)
+
+流程： 
+
+```
+AES加密 对结果base64编码 请求
+得到响应结果 base64解码 AES 解密
+```
+
